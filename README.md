@@ -10,3 +10,5 @@
 5. [机器学习笔记五--正则化](https://github.com/daacheng/pythonForMachineLearning/blob/master/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%E4%BA%94--%E6%AD%A3%E5%88%99%E5%8C%96.md)
 
 6. [k-临近算法](https://github.com/daacheng/pythonForMachineLearning/blob/master/k-%E4%B8%B4%E8%BF%91%E7%AE%97%E6%B3%95.md)
+
+7. [决策树](https://github.com/daacheng/pythonForMachineLearning/blob/master/%E5%86%B3%E7%AD%96%E6%A0%91.md)
