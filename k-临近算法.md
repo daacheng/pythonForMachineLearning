@@ -200,3 +200,4 @@
         main()
 
 ### 3.4、结果
+![](https://github.com/daacheng/pythonForMachineLearning/blob/master/pic/knnI.jpg?raw=true)
