@@ -12,3 +12,5 @@
 6. [k-临近算法](https://github.com/daacheng/pythonForMachineLearning/blob/master/k-%E4%B8%B4%E8%BF%91%E7%AE%97%E6%B3%95.md)
 
 7. [决策树](https://github.com/daacheng/pythonForMachineLearning/blob/master/%E5%86%B3%E7%AD%96%E6%A0%91.md)
+
+8. [朴素贝叶斯](https://github.com/daacheng/pythonForMachineLearning/blob/master/%E6%9C%B4%E7%B4%A0%E8%B4%9D%E5%8F%B6%E6%96%AF.md)
