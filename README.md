@@ -14,3 +14,5 @@
 7. [决策树](https://github.com/daacheng/pythonForMachineLearning/blob/master/%E5%86%B3%E7%AD%96%E6%A0%91.md)
 
 8. [朴素贝叶斯](https://github.com/daacheng/pythonForMachineLearning/blob/master/%E6%9C%B4%E7%B4%A0%E8%B4%9D%E5%8F%B6%E6%96%AF.md)
+
+9. [逻辑回归](https://github.com/daacheng/pythonForMachineLearning/blob/master/%E9%80%BB%E8%BE%91%E5%9B%9E%E5%BD%92.md)
