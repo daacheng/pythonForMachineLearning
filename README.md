@@ -16,3 +16,5 @@
 8. [朴素贝叶斯](https://github.com/daacheng/pythonForMachineLearning/blob/master/%E6%9C%B4%E7%B4%A0%E8%B4%9D%E5%8F%B6%E6%96%AF.md)
 
 9. [逻辑回归](https://github.com/daacheng/pythonForMachineLearning/blob/master/%E9%80%BB%E8%BE%91%E5%9B%9E%E5%BD%92.md)
+
+10. [线性回归](https://github.com/daacheng/pythonForMachineLearning/blob/master/%E7%BA%BF%E6%80%A7%E5%9B%9E%E5%BD%92.md)
