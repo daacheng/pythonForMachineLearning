@@ -21,3 +21,4 @@
 10. [线性回归](https://github.com/daacheng/pythonForMachineLearning/blob/master/%E7%BA%BF%E6%80%A7%E5%9B%9E%E5%BD%92.md)
 
 ## 二、自然语言处理(Natural Language Processing)
+1. [自然语言处理一--基本概念理解](https://github.com/daacheng/pythonForMachineLearning/blob/master/%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86%E4%B8%80--%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5%E7%90%86%E8%A7%A3.md)
